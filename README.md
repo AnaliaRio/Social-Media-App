@@ -2,7 +2,7 @@
 
 ## Description 📝
 
-This is a project built using vanilla JavaScript whose main focus is to understand de CRUD principles:
+This is a project built using vanilla JavaScript whose main focus is to understand the CRUD principles:
 
 - Create
 - Read
